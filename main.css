@@ -9,3 +9,32 @@ h1, h2, p {
   text-align: center;
   padding: 2%;
 }
+
+h1 {
+  font-size: 4.5rem;
+  line-height: 2.5rem;
+  color: #FCF8F6;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #F6DDCC;
+}
+
+p {
+  font-size: 7.8rem;
+  color: #FCF8F6;
+}
+
+.jumbotron {
+  background-color: #F6DDCC;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  border: 5px solid #F6DDCC;
+  width: 230px;
+  height: 230px;
+  margin-bottom: 7%;
+}
