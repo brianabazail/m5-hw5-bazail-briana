@@ -41,7 +41,6 @@ p {
 
 .box-1 {
   background-color: #D9E9F9;
-  padding: 1%;
 }
 
 .box-2 {
@@ -50,4 +49,8 @@ p {
 
 .box-3 {
   background-color: #34495E;
+}
+
+.color-change {
+  background-color: #D5DBDB;
 }
