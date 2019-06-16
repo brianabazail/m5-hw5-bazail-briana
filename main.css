@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+h1, h2, p {
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  padding: 2%;
+}
